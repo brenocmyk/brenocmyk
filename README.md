@@ -1,6 +1,6 @@
 ## Hi! I'm Breno 👋✨
 
-<img src="https://i.pinimg.com/originals/6f/9e/7b/6f9e7b5d9b2c4c8c8c2c1c4f4a5d9b1c.jpg" width="400" align="right"/>
+<img src="https://www.estadao.com.br/resizer/v2/TYVLAHZWQRA2HDTHFFNHBUHZEU.jpg?auth=2bb5f6663de3e5adf60e72392a4086d34a4610d03ff1501fc2b4f72d1de1bb98" width="400" align="right"/>
 
 💻 Aspiring Backend Developer (Java)
 📚 Currently learning Spring Boot, APIs and SQL
@@ -22,21 +22,21 @@
 
 ## 🧰 Tools & Technologies
 
-![Tools](https://skillicons.dev/icons?i=vscode,idea,postman,figma,aws)
+![Tools](https://skillicons.dev/icons?i=vscode,postman,figma,)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USER\&show_icons=true\&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=brenocmyk\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brenocmyk\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USER\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=brenocmyk\&theme=tokyonight)
 
 ---
 
@@ -65,10 +65,9 @@
 
 ## 🚀 Goals
 
-* Build REST APIs with Spring Boot
-* Learn authentication (JWT)
+
 * Get a Backend Internship
 
 ---
 
-⭐ From [brenocmyk](https://github.com/SEU_USER)
+⭐ From [brenocmyk](https://github.com/brenocmyk)
