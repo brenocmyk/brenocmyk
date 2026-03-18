@@ -8,7 +8,7 @@
 ## 👨‍💻 Breno Aguiar
 
 <p align="right">
-  <img src="https://www.estadao.com.br/resizer/v2/TYVLAHZWQRA2HDTHFFNHBUHZEU.jpg?auth=2bb5f6663de3e5adf60e72392a4086d34a4610d03ff1501fc2b4f72d1de1bb98" width="350"/>
+  <img src="https://www.estadao.com.br/resizer/v2/TYVLAHZWQRA2HDTHFFNHBUHZEU.jpg?auth=2bb5f6663de3e5adf60e72392a4086d34a4610d03ff1501fc2b4f72d1de1bb98" width="250"/>
 </p>
 
 💻 Backend Developer focused on Java  
@@ -22,9 +22,6 @@
 
 ### Backend
 ![Backend](https://skillicons.dev/icons?i=java,spring,nodejs)
-
-### Frontend
-![Frontend](https://skillicons.dev/icons?i=js,ts,react)
 
 ### Database
 ![Database](https://skillicons.dev/icons?i=postgres,mysql)
@@ -49,43 +46,11 @@
 
 ---
 
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=brenocmyk&theme=tokyonight"/>
-</p>
-
----
-
 ## 📌 Featured Projects
 
 - 🔹 [Controle Remoto Java](https://github.com/brenocmyk/Controle-Remoto-em-Java---Encapsulamento)  
 - 🔹 [Conta Banco Java](https://github.com/brenocmyk/conta-no-banco-java)  
 - 🔹 (Coming soon) API REST with Spring Boot  
 
----
-
-## 📚 Currently Studying
-
-- ☕ Java OOP (encapsulation, inheritance, polymorphism)  
-- 🌱 Spring Boot (REST APIs)  
-- 🗄️ SQL (PostgreSQL / MySQL)  
-
----
-
-## ⏱️ Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
----
-
-## 🚀 Goals
-
-- Build real-world REST APIs  
-- Learn authentication (JWT)  
-- Get a Backend Internship  
-
----
 
 ⭐ From [brenocmyk](https://github.com/brenocmyk)
