@@ -1,20 +1,25 @@
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Breno+👋;Backend+Developer+(Java);Spring+Boot+%7C+APIs+%7C+SQL;Focused+on+Internship+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Breno+👋;Backend+Developer+(Java);Spring+Boot+%7C+APIs+%7C+SQL" />
 </p>
 
 ---
 
 ## 👨‍💻 Breno Aguiar
 
-<p align="right">
-  <img src="https://www.estadao.com.br/resizer/v2/TYVLAHZWQRA2HDTHFFNHBUHZEU.jpg?auth=2bb5f6663de3e5adf60e72392a4086d34a4610d03ff1501fc2b4f72d1de1bb98" width="250"/>
-</p>
+<img src="https://www.estadao.com.br/resizer/v2/TYVLAHZWQRA2HDTHFFNHBUHZEU.jpg?auth=2bb5f6663de3e5adf60e72392a4086d34a4610d03ff1501fc2b4f72d1de1bb98" width="320" align="right"/>
+<p style="font-size:21px;">
 
-💻 Backend Developer focused on Java  
-🚀 Building REST APIs with Spring Boot  
-🗄️ Working with SQL (PostgreSQL / MySQL)  
-🎯 Seeking internship opportunities  
+  
+  💻 Backend Developer focused on Java<br>
+  
+  🚀 Building REST APIs with Spring Boot<br>
+  
+  🗄️ Working with SQL (PostgreSQL / MySQL)<br>
+  
+  🎯 Seeking internship opportunities  
+</p>
+<br clear="right"/>
 
 ---
 
@@ -52,5 +57,6 @@
 - 🔹 [Conta Banco Java](https://github.com/brenocmyk/conta-no-banco-java)  
 - 🔹 (Coming soon) API REST with Spring Boot  
 
+---
 
 ⭐ From [brenocmyk](https://github.com/brenocmyk)
