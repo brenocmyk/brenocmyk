@@ -8,12 +8,6 @@
 
 ---
 
-## 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin\&style=for-the-badge)](SEU_LINK_AQUI)
-
----
-
 ## 🛠️ Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=java,spring,js,ts,nodejs,react,postgres,mysql,docker,git,github,linux)
