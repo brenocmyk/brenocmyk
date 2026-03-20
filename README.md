@@ -26,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 ### Backend
-![Backend](https://skillicons.dev/icons?i=java,spring,nodejs)
+![Backend](https://skillicons.dev/icons?i=java,spring)
 
 ### Database
 ![Database](https://skillicons.dev/icons?i=postgres,mysql)
