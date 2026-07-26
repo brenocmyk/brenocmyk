@@ -1,21 +1,5 @@
 # Breno Aguiar
 
-Backend Developer (Java)  
-
-I build RESTful APIs using Spring Boot, focusing on clean architecture, scalability, and best practices.
-
----
-
-## About Me
-
-- Backend development with Java and Spring Boot  
-- API design and integration  
-- Database modeling with PostgreSQL and MySQL  
-- Version control with Git  
-- Currently seeking internship opportunities  
-
----
-
 ## Tech Stack
 
 **Backend:** Java, Spring Boot  
